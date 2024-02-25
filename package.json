@@ -1,0 +1,23 @@
+{
+  "name": "hardhat-human-readable-abi-exporter",
+  "version": "1.0.0",
+  "description": "export human readable abi for solidity smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huaigu/hardhat-human-readable-abi-exporter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huaigu/hardhat-human-readable-abi-exporter/issues"
+  },
+  "homepage": "https://github.com/huaigu/hardhat-human-readable-abi-exporter#readme",
+  "devDependencies": {
+    "hardhat": "^2.20.1"
+  }
+}
